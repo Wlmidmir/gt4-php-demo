@@ -1,3 +1,4 @@
+Amoushnxvkwg
 ## 运行demo
 1.php版本: 7.2  
 2.Nginx配置PHP环境  
@@ -50,7 +51,8 @@
 4.Request GeeTest service to validate user legitimacy  
 5.Client follows its own business logic according to verification result returned from GeeTest server  
 
-## Secondary validation interface
+## Secondary validation interfacejdudjdjdznd
+
 |Item|Description|
 |---|---|
 |API address|<http://gcaptcha4.geetest.com/validate>|
